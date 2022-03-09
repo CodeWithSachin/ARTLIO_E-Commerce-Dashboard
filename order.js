@@ -35,16 +35,4 @@ const Orders=[
         paymentStatus:'Due',
         shipping:'Pending'
     },
-    {
-        productName:'Foldable mini drone',
-        productNumber:'85641',
-        paymentStatus:'Due',
-        shipping:'Pending'
-    },
-    {
-        productName:'Foldable mini drone',
-        productNumber:'85641',
-        paymentStatus:'Due',
-        shipping:'Pending'
-    },
 ]
